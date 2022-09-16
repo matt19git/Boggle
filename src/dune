@@ -1,0 +1,4 @@
+(executable
+ (public_name Boggle)
+ (name boggle)
+ (libraries Boggle))
